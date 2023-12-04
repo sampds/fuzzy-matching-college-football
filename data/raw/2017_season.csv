@@ -1,0 +1,131 @@
+﻿School,Conf,W,L,Pct,Conf_W,Conf_L,Conf_Pct,AP High,AP Rank
+Clemson,ACC (Atlantic),12,2,0.86,7,1,0.88,1,4
+North Carolina State,ACC (Atlantic),9,4,0.69,6,2,0.75,14,23
+Louisville,ACC (Atlantic),8,5,0.62,4,4,0.50,14,
+Wake Forest,ACC (Atlantic),8,5,0.62,4,4,0.50,,
+Boston College,ACC (Atlantic),7,6,0.54,4,4,0.50,,
+Florida State,ACC (Atlantic),7,6,0.54,3,5,0.38,3,
+Syracuse,ACC (Atlantic),4,8,0.33,2,6,0.25,,
+Miami (FL),ACC (Coastal),10,3,0.77,7,1,0.88,2,13
+Virginia Tech,ACC (Coastal),9,4,0.69,5,3,0.63,12,24
+Georgia Tech,ACC (Coastal),5,6,0.46,4,4,0.50,,
+Duke,ACC (Coastal),7,6,0.54,3,5,0.38,,
+Virginia,ACC (Coastal),6,7,0.46,3,5,0.38,,
+Pitt,ACC (Coastal),5,7,0.42,3,5,0.38,,
+North Carolina,ACC (Coastal),3,9,0.25,1,7,0.13,,
+UCF,American (East),13,0,1.00,8,0,1.00,6,6
+South Florida,American (East),10,2,0.83,6,2,0.75,16,21
+Temple,American (East),7,6,0.54,4,4,0.50,,
+Cincinnati,American (East),4,8,0.33,2,6,0.25,,
+Connecticut,American (East),3,9,0.25,2,6,0.25,,
+East Carolina,American (East),3,9,0.25,2,6,0.25,,
+Memphis,American (West),10,3,0.77,7,1,0.88,16,25
+Houston,American (West),7,5,0.58,5,3,0.63,,
+Navy,American (West),7,6,0.54,4,4,0.50,25,
+SMU,American (West),7,6,0.54,4,4,0.50,,
+Tulane,American (West),5,7,0.42,3,5,0.38,,
+Tulsa,American (West),2,10,0.17,1,7,0.13,,
+Oklahoma,Big 12,12,2,0.86,8,1,0.89,2,3
+Texas Christian,Big 12,11,3,0.79,7,2,0.78,4,9
+Oklahoma State,Big 12,10,3,0.77,6,3,0.67,6,14
+Iowa State,Big 12,8,5,0.62,5,4,0.56,14,
+Kansas State,Big 12,8,5,0.62,5,4,0.56,18,
+Texas,Big 12,7,6,0.54,5,4,0.56,23,
+West Virginia,Big 12,7,6,0.54,5,4,0.56,22,
+Texas Tech,Big 12,6,7,0.46,3,6,0.33,24,
+Baylor,Big 12,1,11,0.08,1,8,0.11,,
+Kansas,Big 12,1,11,0.08,0,9,0.00,,
+Ohio State,Big Ten (East),12,2,0.86,8,1,0.89,2,5
+Penn State,Big Ten (East),11,2,0.85,7,2,0.78,2,8
+Michigan State,Big Ten (East),10,3,0.77,7,2,0.78,13,15
+Michigan,Big Ten (East),8,5,0.62,5,4,0.56,7,
+Rutgers,Big Ten (East),4,8,0.33,3,6,0.33,,
+Indiana,Big Ten (East),5,7,0.42,2,7,0.22,,
+Maryland,Big Ten (East),4,8,0.33,2,7,0.22,,
+Wisconsin,Big Ten (West),13,1,0.93,9,0,1.00,3,7
+Northwestern,Big Ten (West),10,3,0.77,7,2,0.78,17,17
+Iowa,Big Ten (West),8,5,0.62,4,5,0.44,25,
+Purdue,Big Ten (West),7,6,0.54,4,5,0.44,,
+Nebraska,Big Ten (West),4,8,0.33,3,6,0.33,,
+Minnesota,Big Ten (West),5,7,0.42,2,7,0.22,,
+Illinois,Big Ten (West),2,10,0.17,0,9,0.00,,
+Florida Atlantic,CUSA (East),11,3,0.79,8,0,1.00,,
+Florida International,CUSA (East),8,5,0.62,5,3,0.63,,
+Marshall,CUSA (East),8,5,0.62,4,4,0.50,,
+Middle Tennessee State,CUSA (East),7,6,0.54,4,4,0.50,,
+Western Kentucky,CUSA (East),6,7,0.46,4,4,0.50,,
+Old Dominion,CUSA (East),5,7,0.42,3,5,0.38,,
+Charlotte,CUSA (East),1,11,0.08,1,7,0.13,,
+North Texas,CUSA (West),9,5,0.64,7,1,0.88,,
+Southern Mississippi,CUSA (West),8,5,0.62,6,2,0.75,,
+UAB,CUSA (West),8,5,0.62,6,2,0.75,,
+Louisiana Tech,CUSA (West),7,6,0.54,4,4,0.50,,
+UTSA,CUSA (West),6,5,0.55,3,5,0.38,,
+Rice,CUSA (West),1,11,0.08,1,7,0.13,,
+UTEP,CUSA (West),0,12,0.00,0,8,0.00,,
+Massachusetts,Ind,4,8,0.33,,,,,
+Army,Ind,10,3,0.77,,,,,
+Notre Dame,Ind,10,3,0.77,0,0,,3,11
+BYU,Ind,4,9,0.31,,,,,
+Akron,MAC (East),7,7,0.50,6,2,0.75,,
+Ohio,MAC (East),9,4,0.69,5,3,0.63,,
+Buffalo,MAC (East),6,6,0.50,4,4,0.50,,
+Miami (OH),MAC (East),5,7,0.42,4,4,0.50,,
+Bowling Green State,MAC (East),2,10,0.17,2,6,0.25,,
+Kent State,MAC (East),2,10,0.17,1,7,0.13,,
+Toledo,MAC (West),11,3,0.79,7,1,0.88,,
+Central Michigan,MAC (West),8,5,0.62,6,2,0.75,,
+Northern Illinois,MAC (West),8,5,0.62,6,2,0.75,,
+Western Michigan,MAC (West),6,6,0.50,4,4,0.50,,
+Eastern Michigan,MAC (West),5,7,0.42,3,5,0.38,,
+Ball State,MAC (West),2,10,0.17,0,8,0.00,,
+Boise State,MWC (Mountain),11,3,0.79,1,1,0.50,22,22
+Colorado State,MWC (Mountain),7,6,0.54,5,3,0.63,,
+Utah State,MWC (Mountain),6,7,0.46,4,4,0.50,,
+Air Force,MWC (Mountain),5,7,0.42,4,4,0.50,,
+Wyoming,MWC (Mountain),8,5,0.62,0,1,0.00,,
+New Mexico,MWC (Mountain),3,9,0.25,0,1,0.00,,
+Fresno State,MWC (West),10,4,0.71,5,1,0.83,25,
+San Diego State,MWC (West),10,3,0.77,6,2,0.75,19,
+Nevada-Las Vegas,MWC (West),5,7,0.42,4,4,0.50,,
+San Jose State,MWC (West),2,11,0.15,1,7,0.13,,
+Hawaii,MWC (West),3,9,0.25,0,1,0.00,,
+Nevada,MWC (West),3,9,0.25,0,1,0.00,,
+Washington,Pac-12 (North),10,3,0.77,7,2,0.78,5,16
+Stanford,Pac-12 (North),9,5,0.64,7,3,0.70,14,20
+Washington State,Pac-12 (North),9,4,0.69,6,3,0.67,8,
+Oregon,Pac-12 (North),7,6,0.54,4,5,0.44,24,
+California,Pac-12 (North),5,7,0.42,2,7,0.22,,
+Oregon State,Pac-12 (North),1,11,0.08,0,9,0.00,,
+USC,Pac-12 (South),11,3,0.79,9,1,0.90,4,12
+Arizona State,Pac-12 (South),7,6,0.54,6,3,0.67,,
+Arizona,Pac-12 (South),7,6,0.54,5,4,0.56,23,
+UCLA,Pac-12 (South),6,7,0.46,4,5,0.44,25,
+Utah,Pac-12 (South),7,6,0.54,3,6,0.33,20,
+Colorado,Pac-12 (South),5,7,0.42,2,7,0.22,,
+Georgia,SEC (East),13,2,0.87,7,1,0.88,2,2
+South Carolina,SEC (East),9,4,0.69,5,3,0.63,,
+Kentucky,SEC (East),7,6,0.54,4,4,0.50,,
+Missouri,SEC (East),7,6,0.54,4,4,0.50,,
+Florida,SEC (East),4,7,0.36,3,5,0.38,17,
+Vanderbilt,SEC (East),5,7,0.42,1,7,0.13,,
+Tennessee,SEC (East),4,8,0.33,0,8,0.00,23,
+Alabama,SEC (West),13,1,0.93,7,1,0.88,1,1
+Auburn,SEC (West),10,4,0.71,7,1,0.88,4,10
+LSU,SEC (West),9,4,0.69,6,2,0.75,12,18
+Mississippi State,SEC (West),9,4,0.69,4,4,0.50,16,19
+Texas A&M,SEC (West),7,6,0.54,4,4,0.50,,
+Ole Miss,SEC (West),6,6,0.50,3,5,0.38,,
+Arkansas,SEC (West),4,8,0.33,1,7,0.13,,
+Appalachian State,Sun Belt,9,4,0.69,7,1,0.88,,
+Coastal Carolina,Sun Belt,3,9,0.25,2,6,0.25,,
+Georgia Southern,Sun Belt,2,10,0.17,2,6,0.25,,
+Troy,Sun Belt,11,2,0.85,7,1,0.88,,
+Arkansas State,Sun Belt,7,5,0.58,6,2,0.75,,
+Georgia State,Sun Belt,7,5,0.58,5,3,0.63,,
+New Mexico State,Sun Belt,7,6,0.54,4,4,0.50,,
+Louisiana,Sun Belt,5,7,0.42,4,4,0.50,,
+Louisiana-Monroe,Sun Belt,4,8,0.33,4,4,0.50,,
+Idaho,Sun Belt,4,8,0.33,3,5,0.38,,
+South Alabama,Sun Belt,4,8,0.33,3,5,0.38,,
+Texas State,Sun Belt,2,10,0.17,1,7,0.13,,
